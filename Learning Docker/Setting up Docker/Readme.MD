@@ -1,0 +1,2 @@
+- Go to Docker Website 
+- Create an Account and Install it in your machine
